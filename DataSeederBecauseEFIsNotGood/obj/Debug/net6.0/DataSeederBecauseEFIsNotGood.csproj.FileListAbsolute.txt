@@ -1,0 +1,15 @@
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/bin/Debug/net6.0/DataSeederBecauseEFIsNotGood
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/bin/Debug/net6.0/DataSeederBecauseEFIsNotGood.deps.json
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/bin/Debug/net6.0/DataSeederBecauseEFIsNotGood.runtimeconfig.json
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/bin/Debug/net6.0/DataSeederBecauseEFIsNotGood.dll
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/bin/Debug/net6.0/ref/DataSeederBecauseEFIsNotGood.dll
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/bin/Debug/net6.0/DataSeederBecauseEFIsNotGood.pdb
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.csproj.AssemblyReference.cache
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.AssemblyInfoInputs.cache
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.AssemblyInfo.cs
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.csproj.CoreCompileInputs.cache
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.dll
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/ref/DataSeederBecauseEFIsNotGood.dll
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.pdb
+/Users/rob/ProjectManager/ProjectManager_API/DataSeederBecauseEFIsNotGood/obj/Debug/net6.0/DataSeederBecauseEFIsNotGood.genruntimeconfig.cache

@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\ProjectManager_API.Domain\ProjectManager_API.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AutoMapper" Version="10.1.1" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+      <PackageReference Include="FluentValidation" Version="10.3.6" />
+      <PackageReference Include="FluentValidation.DependencyInjectionExtensions" Version="10.3.6" />
+      <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Folder Include="Features\ProjectFeatures\Queries" />
+      <Folder Include="Features\UserFeatures\Queries" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="Features\ProjectFeatures\Commands\Dtos.cs">
+        <DependentUpon>CreateProjectCommand.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Features\ProjectFeatures\Commands\Handler.cs">
+        <DependentUpon>CreateProjectCommand.cs</DependentUpon>
+      </Compile>
+      <Compile Update="Features\ProjectFeatures\Commands\Validator.cs">
+        <DependentUpon>CreateProjectCommand.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>

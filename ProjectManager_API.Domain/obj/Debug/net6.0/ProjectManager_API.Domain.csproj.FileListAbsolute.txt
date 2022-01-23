@@ -1,0 +1,12 @@
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/bin/Debug/net6.0/ProjectManager_API.Domain.deps.json
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/bin/Debug/net6.0/ProjectManager_API.Domain.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/bin/Debug/net6.0/ref/ProjectManager_API.Domain.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/bin/Debug/net6.0/ProjectManager_API.Domain.pdb
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ProjectManager_API.Domain.csproj.AssemblyReference.cache
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ProjectManager_API.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ProjectManager_API.Domain.AssemblyInfoInputs.cache
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ProjectManager_API.Domain.AssemblyInfo.cs
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ProjectManager_API.Domain.csproj.CoreCompileInputs.cache
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ProjectManager_API.Domain.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ref/ProjectManager_API.Domain.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Domain/obj/Debug/net6.0/ProjectManager_API.Domain.pdb

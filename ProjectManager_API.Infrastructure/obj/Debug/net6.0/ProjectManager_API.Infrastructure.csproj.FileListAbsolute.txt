@@ -1,0 +1,17 @@
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ProjectManager_API.Infrastructure.deps.json
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ProjectManager_API.Infrastructure.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ref/ProjectManager_API.Infrastructure.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ProjectManager_API.Infrastructure.pdb
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ProjectManager_API.Application.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ProjectManager_API.Domain.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ProjectManager_API.Application.pdb
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/bin/Debug/net6.0/ProjectManager_API.Domain.pdb
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.csproj.AssemblyReference.cache
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.AssemblyInfoInputs.cache
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.AssemblyInfo.cs
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.csproj.CopyComplete
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ref/ProjectManager_API.Infrastructure.dll
+/Users/rob/ProjectManager/ProjectManager_API/ProjectManager_API.Infrastructure/obj/Debug/net6.0/ProjectManager_API.Infrastructure.pdb
